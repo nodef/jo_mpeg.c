@@ -1,0 +1,15 @@
+{
+  "name": "jo_mpeg.c",
+  "version": "1.4.0",
+  "description": "Simple, Minimalistic, No Allocations MPEG writer - without audio; Jon Olick and Wladislav Artsimovich (2016).",
+  "keywords": ["c", "library", "mpeg", "video", "writer", "no allocations", "minimalistic"],
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/jo_mpeg.c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/jo_mpeg.c/issues"
+  },
+  "homepage": "https://github.com/nodef/jo_mpeg.c#readme"
+}
